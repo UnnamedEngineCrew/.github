@@ -1,15 +1,14 @@
 # Welcome to the Unnamed Engine Crew
 
-Hello and thanks for checking out our GitHub space!
-
-We're a small group of developers passionate about building something unique. At Unnamed Engine, we started fresh—rewriting our engine from scratch—to create a more modular, efficient, and enjoyable platform for developers.
+Hey there, thanks for stopping by.
+We're just a small team of developers who decided to take a fresh approach. Unnamed Engine is our little project where we rewrote our engine from scratch, experimenting and learning as we go.
 
 ## Who We Are
 
-We're not a massive corporation; we're a team that values clean code, creative problem-solving, and a collaborative spirit. Whether you're here to contribute, learn, or just see what we're up to, we're glad you stopped by.
+We're not a huge corporation or anything fancy. We're a group of people who love coding, problem-solving, and the occasional late-night debugging session. If you're curious about how we do things or want to share your ideas, you've come to the right place.
 
 ## What We're Up To
 
-Unnamed Engine is our ongoing project and playground for innovation. We’re constantly experimenting, refining, and pushing the boundaries to build an engine that empowers creators. Expect regular updates and improvements as we continue our journey.
+Our project is a work in progress. We're always tweaking, testing, and trying out new ideas to improve the engine. There are plenty of updates, experiments, and code commits that tell the story of our journey.
 
 ### Thanks for visiting!
