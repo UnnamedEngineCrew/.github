@@ -1,7 +1,7 @@
 # Welcome to the Unnamed Engine Crew
 
 Hey there, thanks for stopping by.
-We're just a small team of developers who decided to take a fresh approach. Unnamed Engine is our little project where we rewrote [Friday Night Funkin](https://github.com/FunkinCrew/Funkin') engine from scratch, experimenting and learning as we go.
+We're just a small team of developers who decided to take a fresh approach. Unnamed Engine is our little project where we rewrote [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin) engine from scratch, experimenting and learning as we go.
 
 ## Who We Are
 
